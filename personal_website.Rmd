@@ -10,3 +10,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 I like [google](https://www.google.com)
+
+
+
+i can link to my [about page](about.html)
+
+<img src="images/plot_1_2.png" style="width:25%">
+
