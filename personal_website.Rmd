@@ -1,0 +1,12 @@
+---
+title: "Website"
+author: "Shu Deng"
+date: "10/18/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I like [google](https://www.google.com)
